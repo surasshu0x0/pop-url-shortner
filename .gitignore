@@ -2,4 +2,4 @@ env/
 .pyc
 
 *.swp
-
+*.db
